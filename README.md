@@ -31,10 +31,7 @@ Collected data from Spotify and other sources, which includes song names, artist
 - Displays the top 5 recommended songs along with their album covers.
 
 ## Outputs
-### Example 1
 <img src="Images/1.png">
-
-### Example 2
 <img src="Images/2.png">
 
 ## How to Run
