@@ -32,10 +32,10 @@ Collected data from Spotify and other sources, which includes song names, artist
 
 ## Outputs
 ### Example 1
-
+<img src="1.png">
 
 ### Example 2
-
+<img src="2.png">
 
 ## How to Run
 1. Clone this repository.

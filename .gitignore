@@ -1,0 +1,15 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .cache files
+*.cache
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
